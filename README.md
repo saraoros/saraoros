@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sara!
-- 🧑🏻‍💻 I'm currently an engineer by day and a boot camp grader by night.
 
 
 <!---
